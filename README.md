@@ -1,1 +1,1 @@
-# Contains an A* pathfinding algorithm and Conway's Game of Life
+# Contains an A* Pathfinding Algorithm and Conway's Game of Life
